@@ -118,10 +118,6 @@ Dropshipping və e-ticarət üçün istifadə olunan məşhur platformalar:
 
 
 
-!\[Image Alt](https://github.com/elvengear456-droid/drp-etic-1.0/blob/main/ebay.png?raw=true) 
-
-
-
 Bu platformalar istifadəçilərə öz onlayn mağazalarını yaratmağa və məhsul satmağa imkan verir.
 
 
