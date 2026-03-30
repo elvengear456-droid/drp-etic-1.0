@@ -116,10 +116,6 @@ Dropshipping və e-ticarət üçün istifadə olunan məşhur platformalar:
 
 \- eBay
 
-!\[sekil](urun1.webp)
-
-!\[sekil](urun2.png)
-
 
 
 Bu platformalar istifadəçilərə öz onlayn mağazalarını yaratmağa və məhsul satmağa imkan verir.
