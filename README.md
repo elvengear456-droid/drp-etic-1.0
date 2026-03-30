@@ -54,15 +54,15 @@ Dropshipping sistemi aşağıdakı mərhələlərdən ibarətdir:
 
 
 
-1\. Satıcı onlayn mağaza yaradır  
+1\. Satıcı onlayn mağaza yaradır
 
-2\. Satılacaq məhsulları seçir və sayta yerləşdirir  
+2\. Satılacaq məhsulları seçir və sayta yerləşdirir
 
-3\. Müştəri məhsulu sifariş edir və ödəniş edir  
+3\. Müştəri məhsulu sifariş edir və ödəniş edir
 
-4\. Satıcı sifarişi təchizatçıya ötürür  
+4\. Satıcı sifarişi təchizatçıya ötürür
 
-5\. Təchizatçı məhsulu birbaşa müştəriyə göndərir  
+5\. Təchizatçı məhsulu birbaşa müştəriyə göndərir
 
 
 
@@ -72,13 +72,13 @@ Dropshipping sistemi aşağıdakı mərhələlərdən ibarətdir:
 
 \## ✅ Üstünlükləri
 
-\- Aşağı başlanğıc xərci  
+\- Aşağı başlanğıc xərci
 
-\- Anbar və logistika problemi yoxdur  
+\- Anbar və logistika problemi yoxdur
 
-\- Evdən işləmək mümkündür  
+\- Evdən işləmək mümkündür
 
-\- Biznesə başlamaq asandır  
+\- Biznesə başlamaq asandır
 
 
 
@@ -88,13 +88,13 @@ Dropshipping sistemi aşağıdakı mərhələlərdən ibarətdir:
 
 \## ❌ Çatışmazlıqları
 
-\- Çatdırılma müddəti uzun ola bilər  
+\- Çatdırılma müddəti uzun ola bilər
 
-\- Məhsul keyfiyyətinə nəzarət çətindir  
+\- Məhsul keyfiyyətinə nəzarət çətindir
 
-\- Müştəri məmnuniyyətini təmin etmək çətin ola bilər  
+\- Müştəri məmnuniyyətini təmin etmək çətin ola bilər
 
-\- Rəqabət yüksəkdir  
+\- Rəqabət yüksəkdir
 
 
 
@@ -108,13 +108,17 @@ Dropshipping və e-ticarət üçün istifadə olunan məşhur platformalar:
 
 
 
-\- Shopify  
+\- Shopify
 
-\- Amazon  
+\- Amazon
 
-\- AliExpress  
+\- AliExpress
 
-\- eBay  
+\- eBay
+
+!\[sekil](urun1.webp)
+
+!\[sekil](urun2.png)
 
 
 
@@ -130,13 +134,13 @@ Bu platformalar istifadəçilərə öz onlayn mağazalarını yaratmağa və mə
 
 Məsələn, bir şəxs telefon aksesuarları satmaq istəyir:
 
-\- Shopify üzərindən mağaza açır  
+\- Shopify üzərindən mağaza açır
 
-\- AliExpress-dən məhsul seçir  
+\- AliExpress-dən məhsul seçir
 
-\- Müştəri sifariş verir  
+\- Müştəri sifariş verir
 
-\- Məhsul birbaşa müştəriyə göndərilir  
+\- Məhsul birbaşa müştəriyə göndərilir
 
 
 
@@ -152,11 +156,11 @@ Bu zaman satıcı məhsulu özü saxlamır.
 
 E-ticarət və dropshipping gələcəkdə daha da inkişaf edəcəkdir. Texnologiyanın inkişafı ilə:
 
-\- Çatdırılma daha sürətli olacaq  
+\- Çatdırılma daha sürətli olacaq
 
-\- Ödəniş sistemləri daha təhlükəsiz olacaq  
+\- Ödəniş sistemləri daha təhlükəsiz olacaq
 
-\- Onlayn alış-veriş daha geniş yayılacaq  
+\- Onlayn alış-veriş daha geniş yayılacaq
 
 
 
@@ -176,9 +180,9 @@ Dropshipping e-ticarətin ən sadə və effektiv modellərindən biridir. Bu mod
 
 \## 📚 Mənbələr
 
-\- İnternet resursları  
+\- İnternet resursları
 
-\- E-ticarət haqqında məqalələr  
+\- E-ticarət haqqında məqalələr
 
-\- Müxtəlif biznes platformaları  
+\- Müxtəlif biznes platformaları
 
