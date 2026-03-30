@@ -110,6 +110,8 @@ Dropshipping və e-ticarət üçün istifadə olunan məşhur platformalar:
 
 \- Shopify
 
+![Image Alt](https://github.com/elvengear456-droid/drp-etic-1.0/blob/main/shopfy.png?raw=true)
+
 \- Amazon
 
 \- AliExpress
